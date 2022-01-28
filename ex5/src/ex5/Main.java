@@ -3,7 +3,7 @@ package ex5;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("1 Keter");
+		System.out.println("2 Chokhmah");
 	}
 
 }
